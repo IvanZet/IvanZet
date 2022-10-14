@@ -9,7 +9,7 @@ I'm a back-end developer located in Vienna, Austria. I have experience as a PHP 
 - [udacity-parallel-web-crawler](https://github.com/IvanZet/udacity-parallel-web-crawler), the third project in Udacity Java Programming nanodegree. It is not polished
   and also lacks a proper description
 - [smaller-web-hexagon](https://github.com/IvanZet/smaller-web-hexagon), my attempt to implement a simple example of hexagon architecture
-- [pluralsight-conf-demo], my first simple CRUD app in Spring Bootstrap
+- [pluralsight-conf-demo](https://github.com/IvanZet/pluralsight-conf-demo), my first simple CRUD app in Spring Bootstrap
 
 I'm looking for a full-time position of Java software engineer in Vienna.
 
