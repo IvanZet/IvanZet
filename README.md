@@ -2,7 +2,7 @@ Hello my name is Ivan Zykov.
 
 I'm a back-end developer located in Vienna, Austria. I have experience as a PHP full stack developer and I'm transitioning to Java now.
 
-#### Some of my pet projects I did recently:
+#### Some of my pet projects/courses I did or working on now:
 - [udacity-hotel-reservation-app](https://github.com/IvanZet/udacity-hotel-reservation-app), the first project I did during Udacity Java Programming nanodegree
 - [udacity-udasecurity](https://github.com/IvanZet/udacity-udasecurity), the second project in Udacity Java Programming nanodegree. It is not polished and lacks a
   proper description
@@ -10,6 +10,7 @@ I'm a back-end developer located in Vienna, Austria. I have experience as a PHP 
   and also lacks a proper description
 - [smaller-web-hexagon](https://github.com/IvanZet/smaller-web-hexagon), my attempt to implement a simple example of hexagon architecture
 - [pluralsight-conf-demo](https://github.com/IvanZet/pluralsight-conf-demo), my first simple CRUD app in Spring Bootstrap
+- [udemy-dsa-barrett](https://github.com/IvanZet/udemy-dsa-barrett), my implementation of data structures and algorithms discussed in Data Structures & Algorithms - Java course by Scott Barrett on Udemy
 
 I'm looking for a full-time position of Java software engineer in Vienna.
 
