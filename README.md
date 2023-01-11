@@ -11,6 +11,7 @@ I'm a back-end developer located in Vienna, Austria. I have experience as a PHP 
 - [smaller-web-hexagon](https://github.com/IvanZet/smaller-web-hexagon), my attempt to implement a simple example of hexagon architecture
 - [pluralsight-conf-demo](https://github.com/IvanZet/pluralsight-conf-demo), my first simple CRUD app in Spring Boot
 - [udemy-dsa-barrett](https://github.com/IvanZet/udemy-dsa-barrett), my implementation of data structures and algorithms discussed in Data Structures & Algorithms - Java course by Scott Barrett on Udemy
+- [craftworks-task-tracker](https://github.com/IvanZet/craftworks-task-tracker), my implementation of a task received from Craftworks. This is a CRUD application in Spring Boot with intermediate features and Docker compose
 
 I'm looking for a full-time position of Java software engineer in Vienna.
 
